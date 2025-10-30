@@ -3472,6 +3472,10 @@ pathfinder:
   ttl: 300
   type: CNAME
   value: meghanam4.github.io.
+patchbay:
+  ttl: 300
+  type: CNAME
+  value: patchbay.1mp.dev.
 penumbra: # ascpixi@hackclub.com U082DPCGPST
   ttl: 300
   type: CNAME
